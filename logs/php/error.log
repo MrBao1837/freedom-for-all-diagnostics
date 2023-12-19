@@ -1,0 +1,106 @@
+[06-Dec-2023 06:30:57 UTC] PHP Warning:  Undefined variable $options in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2384
+[06-Dec-2023 06:30:57 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2384
+[06-Dec-2023 06:36:41 UTC] Sync process for Gutenberg Blocks has started.
+[06-Dec-2023 06:36:41 UTC] CATEGORY:Importing categories..
+[06-Dec-2023 06:36:41 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[06-Dec-2023 06:36:41 UTC] CATEGORY:Completed category import.
+[06-Dec-2023 06:36:41 UTC] BLOCK: Getting Total Blocks
+[06-Dec-2023 06:36:41 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[06-Dec-2023 06:36:41 UTC] BLOCK: Requests count 4
+[06-Dec-2023 06:36:41 UTC] BLOCK: Importing request 1 ..
+[06-Dec-2023 06:36:41 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[06-Dec-2023 06:36:41 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[06-Dec-2023 06:36:41 UTC] BLOCK: Completed request 1
+[06-Dec-2023 06:36:41 UTC] BLOCK: Importing request 2 ..
+[06-Dec-2023 06:36:41 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[06-Dec-2023 06:36:41 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[06-Dec-2023 06:36:41 UTC] BLOCK: Completed request 2
+[06-Dec-2023 06:36:41 UTC] BLOCK: Importing request 3 ..
+[06-Dec-2023 06:36:41 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[06-Dec-2023 06:36:42 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[06-Dec-2023 06:36:42 UTC] BLOCK: Completed request 3
+[06-Dec-2023 06:36:42 UTC] BLOCK: Importing request 4 ..
+[06-Dec-2023 06:36:42 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[06-Dec-2023 06:36:42 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[06-Dec-2023 06:36:42 UTC] BLOCK: Completed request 4
+[06-Dec-2023 06:36:42 UTC] SITE: Getting Total Sites
+[06-Dec-2023 06:36:42 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[06-Dec-2023 06:36:42 UTC] SITE: Request count 2
+[06-Dec-2023 06:36:42 UTC] SITE: Importing request 1 ..
+[06-Dec-2023 06:36:42 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[06-Dec-2023 06:36:42 UTC] SITE: Storing in option ast-block-templates-sites-1
+[06-Dec-2023 06:36:42 UTC] SITE: Completed request 1
+[06-Dec-2023 06:36:42 UTC] SITE: Importing request 2 ..
+[06-Dec-2023 06:36:42 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[06-Dec-2023 06:36:42 UTC] SITE: Storing in option ast-block-templates-sites-2
+[06-Dec-2023 06:36:42 UTC] SITE: Completed request 2
+[06-Dec-2023 06:36:42 UTC] Sync process for Gutenberg Blocks is done.
+[06-Dec-2023 20:26:18 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-8.css): Permission denied in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-842.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-866.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-870.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-871.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-872.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-873.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-874.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-909.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[08-Dec-2023 19:43:13 UTC] PHP Warning:  unlink(C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public/wp-content/uploads/elementor/css/post-923.css): No such file or directory in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\elementor\core\files\manager.php on line 111
+[11-Dec-2023 15:44:14 UTC] PHP Fatal error:  Uncaught WP2StaticGuzzleHttp\Exception\ConnectException: cURL error 28: Operation timed out after 600012 milliseconds with 0 bytes received (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for http://freedom-for-all-diagnostics.local/robots.txt in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php:210
+Stack trace:
+#0 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php(158): WP2StaticGuzzleHttp\Handler\CurlFactory::createRejection(Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Array)
+#1 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php(110): WP2StaticGuzzleHttp\Handler\CurlFactory::finishError(Object(WP2StaticGuzzleHttp\Handler\CurlHandler), Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Object(WP2StaticGuzzleHttp\Handler\CurlFactory))
+#2 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlHandler.php(47): WP2StaticGuzzleHttp\Handler\CurlFactory::finish(Object(WP2StaticGuzzleHttp\Handler\CurlHandler), Object(WP2StaticGuzzleHttp\Handler\EasyHandle), Object(WP2StaticGuzzleHttp\Handler\CurlFactory))
+#3 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\Proxy.php(28): WP2StaticGuzzleHttp\Handler\CurlHandler->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#4 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\Proxy.php(48): WP2StaticGuzzleHttp\Handler\Proxy::WP2StaticGuzzleHttp\Handler\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#5 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\PrepareBodyMiddleware.php(35): WP2StaticGuzzleHttp\Handler\Proxy::WP2StaticGuzzleHttp\Handler\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#6 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Middleware.php(31): WP2StaticGuzzleHttp\PrepareBodyMiddleware->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#7 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\RedirectMiddleware.php(71): WP2StaticGuzzleHttp\Middleware::WP2StaticGuzzleHttp\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#8 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Middleware.php(61): WP2StaticGuzzleHttp\RedirectMiddleware->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#9 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\HandlerStack.php(75): WP2StaticGuzzleHttp\Middleware::WP2StaticGuzzleHttp\{closure}(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#10 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(331): WP2StaticGuzzleHttp\HandlerStack->__invoke(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#11 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(107): WP2StaticGuzzleHttp\Client->transfer(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#12 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Client.php(123): WP2StaticGuzzleHttp\Client->sendAsync(Object(WP2StaticGuzzleHttp\Psr7\Request), Array)
+#13 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\DetectSitemapsURLs.php(91): WP2StaticGuzzleHttp\Client->send(Object(WP2StaticGuzzleHttp\Psr7\Request))
+#14 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\URLDetector.php(101): WP2Static\DetectSitemapsURLs::detect('http://freedom-...')
+#15 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\URLDetector.php(196): WP2Static\URLDetector::detectURLs()
+#16 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Controller.php(699): WP2Static\URLDetector::enqueueURLs()
+#17 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Controller.php(811): WP2Static\Controller::wp2staticHeadless()
+#18 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\class-wp-hook.php(322): WP2Static\Controller::wp2staticRun()
+#19 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#20 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#21 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp2stat...')
+#22 {main}
+  thrown in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlFactory.php on line 210
+[11-Dec-2023 15:54:15 UTC] PHP Fatal error:  Uncaught TypeError: WP2Static\Crawler::WP2Static\{closure}(): Argument #1 ($reason) must be of type WP2StaticGuzzleHttp\Exception\RequestException, WP2StaticGuzzleHttp\Exception\ConnectException given in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Crawler.php:235
+Stack trace:
+#0 [internal function]: WP2Static\Crawler->WP2Static\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException), 4572, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#1 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(191): call_user_func(Object(Closure), Object(WP2StaticGuzzleHttp\Exception\ConnectException), 4572, Object(WP2StaticGuzzleHttp\Promise\Promise))
+#2 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(204): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(Object(WP2StaticGuzzleHttp\Exception\ConnectException))
+#3 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(153): WP2StaticGuzzleHttp\Promise\Promise::callHandler(2, Object(WP2StaticGuzzleHttp\Exception\ConnectException), NULL)
+#4 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\TaskQueue.php(48): WP2StaticGuzzleHttp\Promise\Promise::WP2StaticGuzzleHttp\Promise\{closure}()
+#5 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(158): WP2StaticGuzzleHttp\Promise\TaskQueue->run()
+#6 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticguzzle\src\Handler\CurlMultiHandler.php(183): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->tick()
+#7 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Handler\CurlMultiHandler->execute(true)
+#8 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#9 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(269): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#10 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(226): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitList()
+#11 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#12 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\EachPromise.php(115): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#13 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(248): WP2StaticGuzzleHttp\Promise\EachPromise->WP2StaticGuzzleHttp\Promise\{closure}(true)
+#14 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(224): WP2StaticGuzzleHttp\Promise\Promise->invokeWaitFn()
+#15 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\vendor\leonstafford\wp2staticpromises\src\Promise.php(62): WP2StaticGuzzleHttp\Promise\Promise->waitIfPending()
+#16 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Crawler.php(246): WP2StaticGuzzleHttp\Promise\Promise->wait()
+#17 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Crawler.php(95): WP2Static\Crawler->crawlSite('C:/Users/Neo Os...')
+#18 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\class-wp-hook.php(324): WP2Static\Crawler::wp2staticCrawl('C:/Users/Neo Os...', 'wp2static')
+#19 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#20 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#21 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Controller.php(821): do_action('wp2static_crawl', 'C:/Users/Neo Os...', 'wp2static')
+#22 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Controller.php(702): WP2Static\Controller::wp2staticCrawl()
+#23 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Controller.php(811): WP2Static\Controller::wp2staticHeadless()
+#24 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\class-wp-hook.php(322): WP2Static\Controller::wp2staticRun()
+#25 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#26 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#27 C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wp2stat...')
+#28 {main}
+  thrown in C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\plugins\wp2static\src\Crawler.php on line 235

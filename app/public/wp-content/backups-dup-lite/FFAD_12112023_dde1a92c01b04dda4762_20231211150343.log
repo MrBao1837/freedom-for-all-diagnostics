@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: December 11, 2023 3:04 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.7.1
+WORDPRESS:	6.4.2
+PHP INFO:	8.1.23 | SAPI: cgi-fcgi
+SERVER:		nginx/1.16.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 12MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:32 | filtered:0 | create:32
+FILTERED: []
+SQL CREATED: FFAD_12112023_dde1a92c01b04dda4762_20231211150343_database.sql
+SQL FILE SIZE: 7.87MB (8250748)
+SQL FILE TIME: 2023-12-11 15:04:11
+SQL RUNTIME: 0.53 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/Users/Neo Osera/Local Sites/freedom-for-all-diagnostics/app/public
+ARCHIVE FILE: FFAD_12112023_dde1a92c01b04dda4762_20231211150343_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	300.72MB
+STATS:	Dirs 2,095 | Files 11,565
+SQL ADDED: FFAD_12112023_dde1a92c01b04dda4762_20231211150343_database.sql
+ZipArchive Object
+(
+    [lastId] => 13659
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 13660
+    [filename] => C:\Users\Neo Osera\Local Sites\freedom-for-all-diagnostics\app\public\wp-content\backups-dup-lite\tmp\FFAD_12112023_dde1a92c01b04dda4762_20231211150343_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 13659
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 111.79MB
+ARCHIVE RUNTIME: 112.75 sec.
+MEMORY STACK: 18MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 7.87MB
+INSTALLER FILE: 73.47KB
+ARCHIVE FILE: 113.79MB 
+EXPECTED FILE/DIRECTORY COUNT: 13,660
+ACTUAL FILE/DIRECTORY COUNT: 13,659
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 114.85 sec.
+PEAK PHP MEMORY USED: 22MB
+DONE PROCESSING => FFAD_12112023 December 11, 2023 3:06 pm
+

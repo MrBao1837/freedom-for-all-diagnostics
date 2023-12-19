@@ -1,0 +1,537 @@
+# <!=Copyright (C) 2023 RaraTheme
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockscape 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockscape\n"
+"POT-Creation-Date: 2023-05-02 12:12:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: patterns/counter.php:19
+msgid "90"
+msgstr ""
+
+#: patterns/counter.php:31
+msgid "100"
+msgstr ""
+
+#: patterns/counter.php:43
+msgid "150"
+msgstr ""
+
+#: patterns/counter.php:55
+msgid "200"
+msgstr ""
+
+#: inc/custom-functions.php:15
+msgid "Button BG Primary"
+msgstr ""
+
+#: inc/custom-functions.php:22
+msgid "Button BG White"
+msgstr ""
+
+#: inc/custom-functions.php:29
+msgid "Button Outline"
+msgstr ""
+
+#: inc/custom-functions.php:36
+msgid "Button Style Icon After"
+msgstr ""
+
+#: inc/custom-functions.php:44
+msgid "Small Image"
+msgstr ""
+
+#: inc/custom-functions.php:51
+msgid "Small Font"
+msgstr ""
+
+#: inc/custom-functions.php:58
+msgid "Large Font"
+msgstr ""
+
+#: inc/custom-functions.php:65
+msgid "Show two lines"
+msgstr ""
+
+#: inc/custom-functions.php:72
+msgid "Show three lines"
+msgstr ""
+
+#: inc/custom-functions.php:79
+msgid "Services Background Hover"
+msgstr ""
+
+#: inc/custom-functions.php:87
+msgid "Box Shadow One"
+msgstr ""
+
+#: inc/custom-functions.php:94 inc/custom-functions.php:101
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/custom-functions.php:108
+msgid "Box Shadow Two"
+msgstr ""
+
+#: inc/custom-functions.php:116
+msgid "Mob 2 Col"
+msgstr ""
+
+#: inc/custom-functions.php:124
+msgid "Mob 3 Col"
+msgstr ""
+
+#: inc/custom-functions.php:131 inc/custom-functions.php:152
+#: inc/custom-functions.php:166
+msgid "Mobile Justify Right"
+msgstr ""
+
+#: inc/custom-functions.php:138 inc/custom-functions.php:159
+#: inc/custom-functions.php:173
+msgid "Mobile Justify Left"
+msgstr ""
+
+#: inc/custom-functions.php:145
+msgid "Hide in Mobile"
+msgstr ""
+
+#: inc/custom-functions.php:181
+msgid "Unstyled view"
+msgstr ""
+
+#: inc/custom-functions.php:189
+msgid "Square Shape"
+msgstr ""
+
+#: inc/custom-functions.php:197
+msgid "With Background Color"
+msgstr ""
+
+#: inc/custom-functions.php:205
+msgid "Mob Gap-20px"
+msgstr ""
+
+#: inc/custom-functions.php:213
+msgid "Mob Gap-30px"
+msgstr ""
+
+#: inc/custom-functions.php:221
+msgid "Mob Gap-40px"
+msgstr ""
+
+#: inc/custom-functions.php:229
+msgid "Mob Gap-50px"
+msgstr ""
+
+#: inc/custom-functions.php:237
+msgid "Remove padding"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Blockscape"
+msgstr ""
+
+#: inc/custom-functions.php:253
+msgid "Blockscape Banner"
+msgstr ""
+
+#: inc/custom-functions.php:257
+msgid "Blockscape Clients"
+msgstr ""
+
+#: inc/custom-functions.php:261
+msgid "Blockscape Services"
+msgstr ""
+
+#: inc/custom-functions.php:265
+msgid "Blockscape About"
+msgstr ""
+
+#: inc/custom-functions.php:269
+msgid "Blockscape CTA"
+msgstr ""
+
+#: inc/custom-functions.php:273
+msgid "Blockscape Counter"
+msgstr ""
+
+#: inc/custom-functions.php:277
+msgid "Blockscape Team"
+msgstr ""
+
+#: inc/custom-functions.php:281
+msgid "Blockscape Blog"
+msgstr ""
+
+#: inc/custom-functions.php:285
+msgid "Blockscape Contact"
+msgstr ""
+
+#: inc/custom-functions.php:289
+msgid "Blockscape Error"
+msgstr ""
+
+#: patterns/about-us.php:23
+msgid "Who We Are"
+msgstr ""
+
+#: patterns/about-us.php:29
+msgid "A combination of creative thinking and expertise"
+msgstr ""
+
+#: patterns/about-us.php:33
+msgid ""
+"We have been trusted advisors to the world's foremost organizations since "
+"1926, and we continue to uphold the principles set by our founder and CEO"
+msgstr ""
+
+#: patterns/about-us.php:37 patterns/cta-three.php:22
+msgid ""
+"Consulting and strategic planning for modern businesses involves providing "
+"advice and guidance to companies."
+msgstr ""
+
+#: patterns/about-us.php:46
+msgid "Know More About Us"
+msgstr ""
+
+#: patterns/about.php:22
+msgid "CEO Message"
+msgstr ""
+
+#: patterns/about.php:28
+msgid "Message From CEO"
+msgstr ""
+
+#: patterns/about.php:32
+msgid ""
+"A chief executive officer (CEO), chief administrator, or just chief "
+"executive, is one of a number of corporates executives in charge of "
+"managing an organization especially an independent legal entity such as a "
+"company or nonprofit institution. CEOs find roles in a range of "
+"organizations, including public and private corporations."
+msgstr ""
+
+#: patterns/about.php:36
+msgid "Together let's keep going."
+msgstr ""
+
+#: patterns/about.php:46
+msgid "Adam Levine"
+msgstr ""
+
+#: patterns/about.php:50
+msgid "Chief Executive Officer"
+msgstr ""
+
+#: patterns/banner.php:16
+msgid "Your Consulting Partner"
+msgstr ""
+
+#: patterns/banner.php:23
+msgid "Developing practice to achieve higher performance."
+msgstr ""
+
+#: patterns/banner.php:27
+msgid ""
+"We design and build beautiful brands, websites and products for your "
+"business that stand out the crowd."
+msgstr ""
+
+#: patterns/banner.php:32 patterns/cta-two.php:30
+msgid "Let's Get Started"
+msgstr ""
+
+#: patterns/blog.php:29
+msgid "Latest Article &amp; Blog"
+msgstr ""
+
+#: patterns/blog.php:38
+msgid ""
+"Effective communication and collaboration within the team can help harness "
+"these qualities and drive the team towards its goals."
+msgstr ""
+
+#: patterns/blog.php:76
+msgid "Read All Blog"
+msgstr ""
+
+#: patterns/contact-details.php:15
+msgid "General Inquiries"
+msgstr ""
+
+#: patterns/contact-details.php:19 patterns/contact-details.php:63
+msgid ""
+"If you have any enquires, email us using the form and we will get back to "
+"you asap."
+msgstr ""
+
+#: patterns/contact-details.php:28 patterns/contact-details.php:72
+msgid "123 New Street, NY, USA"
+msgstr ""
+
+#: patterns/contact-details.php:48 patterns/contact-details.php:92
+#: patterns/contact-info.php:30
+msgid "+01 2345 6789"
+msgstr ""
+
+#: patterns/contact-details.php:59
+msgid "Support Inquiries"
+msgstr ""
+
+#: patterns/contact-info.php:11
+msgid "Get In Touch"
+msgstr ""
+
+#: patterns/contact-info.php:20
+msgid "email@companyname.com"
+msgstr ""
+
+#: patterns/counter.php:23
+msgid "Countries Covered"
+msgstr ""
+
+#: patterns/counter.php:35
+msgid "Success Rate"
+msgstr ""
+
+#: patterns/counter.php:47
+msgid "Projects Complete"
+msgstr ""
+
+#: patterns/counter.php:59
+msgid "Clients"
+msgstr ""
+
+#: patterns/cta-four.php:14
+msgid "Make an appointment for a consultation online now."
+msgstr ""
+
+#: patterns/cta-four.php:19
+msgid ""
+"If you need help with modern workplace, cloud infrastructure, or IT "
+"service, you can schedule a free initial consultation."
+msgstr ""
+
+#: patterns/cta-four.php:26
+msgid "Book an Appointment"
+msgstr ""
+
+#: patterns/cta-three.php:18
+msgid "A team that is dedicated to ensuring customer success."
+msgstr ""
+
+#: patterns/cta-three.php:27
+msgid "Dedicated Pool of Resources"
+msgstr ""
+
+#: patterns/cta-three.php:31
+msgid "Complete Business Analysis"
+msgstr ""
+
+#: patterns/cta-three.php:35
+msgid "Guaranteed Investment"
+msgstr ""
+
+#: patterns/cta-three.php:39
+msgid "Tax/Audit Consulting"
+msgstr ""
+
+#: patterns/cta-two.php:19
+msgid "Get Upto 40% discounts on basic business counselling."
+msgstr ""
+
+#: patterns/cta-two.php:23
+msgid ""
+"Join over 100+ companies using our unique go-to-market approach to a "
+"sustainable competitive advantage."
+msgstr ""
+
+#: patterns/cta.php:20
+msgid "Get Free Tech Consultation With Us."
+msgstr ""
+
+#: patterns/cta.php:28
+msgid ""
+"Call to action is a marketing term for any device designed to prompt an "
+"immediate response."
+msgstr ""
+
+#: patterns/cta.php:35
+msgid "Let's get Started"
+msgstr ""
+
+#: patterns/error.php:21
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/error.php:36
+msgid ""
+"The page you are looking for may have been moved, deleted, or possibly "
+"never existed. Go back to home and explore again."
+msgstr ""
+
+#: patterns/error.php:45
+msgid "Go Back to Homepage"
+msgstr ""
+
+#: patterns/service.php:19
+msgid "We are willing to take bold action to achieve the extraordinary."
+msgstr ""
+
+#: patterns/service.php:25
+msgid ""
+"We have been trusted advisors to the world foremost organizations since "
+"1926, and we continue to uphold the principles set by our founder and CEO, "
+"the successful entrepreneur Nabin Tuladhar."
+msgstr ""
+
+#: patterns/service.php:46 patterns/services-list.php:18
+msgid "Full Site Editing"
+msgstr ""
+
+#: patterns/service.php:50 patterns/service.php:70 patterns/service.php:90
+#: patterns/services-list.php:22 patterns/services-list.php:42
+#: patterns/services-list.php:62 patterns/services-list.php:86
+#: patterns/services-list.php:106 patterns/services-list.php:126
+msgid ""
+"Consulting planning for modern businesses involves providing advice and "
+"guidance to companies on how..."
+msgstr ""
+
+#: patterns/service.php:54 patterns/service.php:74 patterns/service.php:94
+#: patterns/services-list.php:26 patterns/services-list.php:46
+#: patterns/services-list.php:66 patterns/services-list.php:90
+#: patterns/services-list.php:110 patterns/services-list.php:130
+msgid "Learn More"
+msgstr ""
+
+#: patterns/service.php:66 patterns/services-list.php:38
+msgid "Responsive Settings"
+msgstr ""
+
+#: patterns/service.php:86 patterns/services-list.php:58
+msgid "SVG Icons"
+msgstr ""
+
+#: patterns/services-list.php:82
+msgid "Google Fonts"
+msgstr ""
+
+#: patterns/services-list.php:102
+msgid "Absolute Positioning"
+msgstr ""
+
+#: patterns/services-list.php:122
+msgid "Woocommerce"
+msgstr ""
+
+#: patterns/team-lists.php:19 patterns/team.php:19
+msgid "Martin Franci"
+msgstr ""
+
+#: patterns/team-lists.php:23 patterns/team-lists.php:77
+#: patterns/team-lists.php:103 patterns/team-lists.php:157
+#: patterns/team-lists.php:185 patterns/team-lists.php:239 patterns/team.php:23
+#: patterns/team.php:77
+msgid "PHD, Accountancy"
+msgstr ""
+
+#: patterns/team-lists.php:37 patterns/team.php:37
+msgid "Kierra Philips"
+msgstr ""
+
+#: patterns/team-lists.php:41 patterns/team-lists.php:121
+#: patterns/team-lists.php:203 patterns/team.php:41
+msgid "PHD, Chemistry"
+msgstr ""
+
+#: patterns/team-lists.php:55 patterns/team.php:55
+msgid "Ahmad Levin"
+msgstr ""
+
+#: patterns/team-lists.php:59 patterns/team-lists.php:139
+#: patterns/team-lists.php:221 patterns/team.php:59
+msgid "PHD, Finance"
+msgstr ""
+
+#: patterns/team-lists.php:73 patterns/team.php:73
+msgid "Makenna Geidt"
+msgstr ""
+
+#: patterns/team-lists.php:99
+msgid "Deb Geift"
+msgstr ""
+
+#: patterns/team-lists.php:117
+msgid "Dylan Geift"
+msgstr ""
+
+#: patterns/team-lists.php:135
+msgid "Patrik Levin"
+msgstr ""
+
+#: patterns/team-lists.php:153
+msgid "Reecha Smith"
+msgstr ""
+
+#: patterns/team-lists.php:181
+msgid "Sara Powell"
+msgstr ""
+
+#: patterns/team-lists.php:199
+msgid "Amanda Watson"
+msgstr ""
+
+#: patterns/team-lists.php:217
+msgid "Steffen Bech"
+msgstr ""
+
+#: patterns/team-lists.php:235
+msgid "Samantha Walters"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/blockscape/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Blockscape is a next-generation and modern Full Site Editing WordPress "
+"theme to build a visually appealing and fast website. Using the new Theme "
+"Editor feature, you can leverage the complete control over your website "
+"elements to fully personalize your site. Packed with tons of pre-built "
+"block patterns, you can seamlessly build a site in less time. Blockscape is "
+"perfect for building blogs, businesses, startups, e-commerce shops, law "
+"firms or any other creative agency website. It is mobile-friendly, "
+"SEO-optimized and speed optimized to load fast. Blockscape is also "
+"WooCommerce-compatible, RTL & translation ready. Learn more at "
+"https://rarathemes.com/wordpress-themes/blockscape/."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RaraTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""

@@ -1,0 +1,25 @@
+				@font-face {
+					font-family: 'nexa-black';
+					src: url('https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/useanyfont/9396Nexa-Black.woff2') format('woff2'),
+						url('https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/useanyfont/9396Nexa-Black.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.nexa-black{font-family: 'nexa-black' !important;}
+
+						h1, h2, h3, h4, h5, h6, button{
+					font-family: 'nexa-black' !important;
+				}
+						a.elementor-toggle-title{
+					font-family: 'nexa-black' !important;
+				}
+						span.elementor-button-text{
+					font-family: 'nexa-black' !important;
+				}
+						button.header-request-button{
+					font-family: 'nexa-black' !important;
+				}
+						a.header-request-link{
+					font-family: 'nexa-black' !important;
+				}
+		

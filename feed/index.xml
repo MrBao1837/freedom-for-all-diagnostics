@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title></title>
+	<title>Home -</title>
 	<atom:link href="https://mrbao1837.github.io/freedom-for-all-diagnostics/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mrbao1837.github.io/freedom-for-all-diagnostics/</link>
+	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 27 Dec 2023 17:22:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Dec 2023 02:31:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/cropped-freedom-for-all-diagnostics-favicon-20200731-32x32-v1-32x32.png</url>
-	<title></title>
-	<link>https://mrbao1837.github.io/freedom-for-all-diagnostics/</link>
+	<title>Home -</title>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 

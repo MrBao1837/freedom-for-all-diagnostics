@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/</loc>
-		<lastmod>2024-01-05T16:07:05+00:00</lastmod>
+		<lastmod>2024-01-09T16:09:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-diagnostics-website-footer-and-about-logo-20200714-v2-1-e1701894820444.png</image:loc>
 		</image:image>
@@ -11,6 +11,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-diagnostics-home-page-antigen-home-use-box-20220318-v1-1024x360.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
@@ -48,26 +51,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/become-a-distributor/</loc>
-		<lastmod>2024-01-04T15:50:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/about/</loc>
-		<lastmod>2024-01-08T15:26:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-for-all-diagnostics-about-page-picture-1-20200714-v1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-for-all-diagnostics-about-page-picture-2-20200714-v1-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-for-all-diagnostics-about-page-picture-3-20200714-v1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/contact/</loc>
 		<lastmod>2024-01-08T15:30:45+00:00</lastmod>
 		<image:image>
@@ -96,12 +79,15 @@
 		<lastmod>2024-01-08T15:35:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/adverse-events-reporting/</loc>
-		<lastmod>2024-01-08T15:36:47+00:00</lastmod>
+		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/portal/</loc>
+		<lastmod>2024-01-08T16:25:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/sars-cov-2/</loc>
-		<lastmod>2024-01-08T16:23:31+00:00</lastmod>
+		<lastmod>2024-01-09T16:10:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-for-all-diagnostics-product-page-product-image-20200722-v2.png</image:loc>
 		</image:image>
@@ -113,8 +99,25 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/portal/</loc>
-		<lastmod>2024-01-08T16:25:09+00:00</lastmod>
+		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/adverse-events-reporting/</loc>
+		<lastmod>2024-01-09T16:11:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/about/</loc>
+		<lastmod>2024-01-09T16:12:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-for-all-diagnostics-about-page-picture-1-20200714-v1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-for-all-diagnostics-about-page-picture-2-20200714-v1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/uploads/2023/12/freedom-for-all-diagnostics-about-page-picture-3-20200714-v1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/become-a-distributor/</loc>
+		<lastmod>2024-01-09T16:13:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mrbao1837.github.io/freedom-for-all-diagnostics/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
 		</image:image>
